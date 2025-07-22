@@ -94,3 +94,5 @@ AAA - Apply when within means and abilities to do so
 * Write valid HTML
 * Use semantic markup
 * Changes in Content Status
+
+Accessibility Checklist for Web Developers: https://treehouse-project-downloads.s3.amazonaws.com/Accessibility-for-Web-Developers/Accessibility-Checklist-for-Web-Developers.pdf
