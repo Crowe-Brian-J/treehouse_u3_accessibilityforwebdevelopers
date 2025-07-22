@@ -62,3 +62,30 @@ AAA - Apply when within means and abilities to do so
 * Make Link Text Descriptive
 * Semantic Heading Structure
   - Title of Wikipedia Article (h1) -> Sections of page (h2)
+* Provide Alternatives to Complex Interactions
+  - Touch Screen (flick vs drag) -> tap/click etc.
+* Generous Target Sizes
+  - Too small/close together
+
+*** Understandable
+* Set HTML language attribute
+  - Page vs. Sections
+* Use Plain language
+  - Strong, Simple Words
+  - Short Paragraphs
+  - Clearly Organized Information
+  - A Conversational Tone
+* Create Predictable Navigation
+* No Unexpected Changes in Context
+  - Shouldn't happen unless interacting with interface element
+    -- Opening a New Window
+    -- Loading a New Page
+    -- Signficantly Rearranging Page Content
+    -- Moving focus to a new component
+  - Keep it Intuitive
+  - Keep actions Expected
+* Make Errors Easy to Spot and Correct
+  - When reporting form errors:
+    -- Make messages easy to notice and Understandable
+    -- Highlight errors visually
+    -- Keep instructions simple
