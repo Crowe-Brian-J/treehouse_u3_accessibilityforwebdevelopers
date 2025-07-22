@@ -89,3 +89,8 @@ AAA - Apply when within means and abilities to do so
     -- Make messages easy to notice and Understandable
     -- Highlight errors visually
     -- Keep instructions simple
+
+*** Robust
+* Write valid HTML
+* Use semantic markup
+* Changes in Content Status
