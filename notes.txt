@@ -42,4 +42,13 @@ AAA - Apply when within means and abilities to do so
   - When text size is doubled, content should not need to be scrolled (horizontally)
 
 *** Operable
-* 
+* Keyboard Navigation
+  - Tab or Shift-Tab
+  - Keyboard Traps
+* Obvious Focus Indicators
+  - Content on Hover or Focus
+* Allow Enough time
+  - Can't do so on eBay auction for example
+  - Can do for login session about to expire while filling out form (extend)
+* Disable distracting comment
+  - Disable animated gifs and emojis under accessibility
