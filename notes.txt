@@ -1,0 +1,45 @@
+P - Perceivable
+O - Operable
+U - Understandable
+R - Robust
+
+AA - Must have, work is unfinished if not compliant
+AAA - Apply when within means and abilities to do so
+
+*** Perceivable
+* Text Alernatives (meaningful descriptions)
+  - One word is substandard
+  - Don't fill with search keywords
+  - Stack of blueberry pancakes with maple syrup and powdered sugar > pancakes || pancake pancakes syrup maple sugar...
+* Captions and Transcriptions (time-based media)
+  - Black background w/ white or yellow Text
+  - No more than two lines at a time
+  - Draggable to re-position
+  - Review transcripts/captions for accuracy
+  - AA: audio descriptions provided for all prerecorded video content in synchronized media
+* Present content using semantic html
+  - Use sensible, logical reading order (headings -> paragraphs)
+  - Use CSS to create unusual layout styles, irrespective of markup
+    -- What about with REACT?
+* Portrait and Landscape orientation
+  - Re-orientation changes layout to present information logically
+* Sufficient Color Contrast
+  - Webaim
+  - color.a11y.com (two ones, not ells)
+  - Google Lighthouse and Axe extensions can test css for sufficient color contrast
+* Combine multiple visual cues, not just color
+  - Red/Green colorblindness
+    -- Add iconography
+* Avoid autostarting as much as possible
+  - 3 seconds or longer?
+    -- Mechanism for pausing or lowering volume
+* Responsive body copy
+  - Maximum 80 characters per lines
+  - Not be fully justified (text-align: justify)
+  - Line height should be at least 1.5 times the text size within paragraphs (line-height: 1.5)
+  - At least 2.25x the text size between paragraphs (padding: 2.25rem)
+* Legible at 200x zoom
+  - When text size is doubled, content should not need to be scrolled (horizontally)
+
+*** Operable
+* 
