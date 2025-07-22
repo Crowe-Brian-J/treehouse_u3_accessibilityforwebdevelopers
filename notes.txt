@@ -52,3 +52,13 @@ AAA - Apply when within means and abilities to do so
   - Can do for login session about to expire while filling out form (extend)
 * Disable distracting comment
   - Disable animated gifs and emojis under accessibility
+* Careful with flashing animations
+  - Seizures
+    -- Never flash more than 3x in 1 second
+* Help Users Navigate
+  - Skip blocks of information presented multiple times
+    -- Bypass blocks of content (i.e. navigation links to different categories on shopping sites)
+* Descriptive Title
+* Make Link Text Descriptive
+* Semantic Heading Structure
+  - Title of Wikipedia Article (h1) -> Sections of page (h2)
